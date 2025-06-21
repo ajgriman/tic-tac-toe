@@ -73,3 +73,6 @@ h6 {
   color: #cdeffd;
   text-align: center;
 }
+.square.highlight {
+  background-color: yellow;
+}
